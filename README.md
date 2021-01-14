@@ -1,3 +1,3 @@
 # HandSign
 
-A description of this package.
+rock paper scissors handsign for [game](https://github.com/dhhyuk/swift-package-rpc-game)
